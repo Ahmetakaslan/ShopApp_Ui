@@ -1,5 +1,4 @@
 
-![Screenshot_2023-03-14-21-55-44-924_com example mobilya_14_03_2023](https://user-images.githubusercontent.com/95686166/225112481-8d4ceb5b-c68a-41e8-a702-cd0bca4abf47.jpg)
 
 
 
