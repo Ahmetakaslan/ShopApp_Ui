@@ -1,8 +1,6 @@
 
 
 ![resim3 (1)](https://user-images.githubusercontent.com/95686166/225268869-72ef2271-dc04-4037-8e52-c9a7d890fd27.jpg)
-![resim2 (3)](https://user-images.githubusercontent.com/95686166/225268876-2c8b2807-724a-4570-a595-c1613ebd63b7.jpg)
-![resim1 (4)](https://user-images.githubusercontent.com/95686166/225268884-c6cddde0-5a9a-48c0-879d-8f2d16f96523.jpg)
 ![resim3 (2)](https://user-images.githubusercontent.com/95686166/225268889-3c2efbd4-f88d-4914-856a-9b5a1db0863e.jpg)
 
 
