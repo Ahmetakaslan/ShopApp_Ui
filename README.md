@@ -4,8 +4,8 @@
 ![resim3 (2)](https://user-images.githubusercontent.com/95686166/225268889-3c2efbd4-f88d-4914-856a-9b5a1db0863e.jpg)
 ![resim5 (1)](https://user-images.githubusercontent.com/95686166/225269766-614356e7-8f7f-4dc8-a018-eb1623247cf6.jpg)
 ![resim5 (3)](https://user-images.githubusercontent.com/95686166/225269770-1fa31460-d204-4da0-9aab-5a088309e0ed.jpg)
-![resim5 (2)](https://user-images.githubusercontent.com/95686166/225269771-8ea34f0f-8093-46b3-8826-eb341e2780c3.jpg)
-![resim7](https://user-images.githubusercontent.com/95686166/225270182-94cfad95-4c71-44cb-b160-dd4a28dbbb4a.jpg)
+
+![a1](https://user-images.githubusercontent.com/95686166/225270696-e59cc72d-ba72-4021-a125-b87d486e4a54.jpg)
 
 
 A new Flutter project.
